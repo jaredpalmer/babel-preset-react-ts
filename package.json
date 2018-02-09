@@ -8,7 +8,7 @@
   "files": ["index.js"],
   "dependencies": {
     "@babel/core": "7.0.0-beta.38",
-    "@babel/preset-typescript": "^7.0.0-beta.38",
+    "@babel/preset-typescript": "7.0.0-beta.38",
     "babel-preset-react-app": "3.1.1"
   }
 }
